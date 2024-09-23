@@ -1,0 +1,43 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+}
+
+body {
+  /* font-family: 'Agrandir-TextBold', 'Poppins', sans-serif; */
+  font-family: 'Poppins', sans-serif;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* .container {
+  margin: 0 auto;
+  padding: 0 42px;
+  max-width: 1280px;
+}
+
+@media (min-width: 1600px) {
+  .container {
+    max-width: 1400px;
+  }
+}
+
+@media (max-width: 1128px) {
+  .container {
+    max-width: 900px;
+    padding: 0px 20px;
+  }
+}
+
+@media (max-width: 750px) {
+  .container {
+    max-width: 718px;
+    padding: 0px 16px;
+  }
+} */
+
